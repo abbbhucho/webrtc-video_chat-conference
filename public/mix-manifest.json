@@ -1,0 +1,5 @@
+{
+    "/js/main.js": "/js/main.js",
+    "/js/dashboard.js": "/js/dashboard.js",
+    "/js/socket.io/socket.io.js": "/js/socket.io/socket.io.js"
+}
